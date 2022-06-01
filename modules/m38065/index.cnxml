@@ -1,0 +1,110 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Writing Up Nonparametric Independent Samples t Test</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38065</md:content-id>
+  <md:title>Writing Up Nonparametric Independent Samples t Test</md:title>
+  <md:abstract/>
+  <md:uuid>d53ee500-9e31-437e-a0ba-505b5b28c09a</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-166"><media id="id27091673" alt=""><image src="../../media/ncpealogo.gif" mime-type="image/gif"/></media>
+
+</para><note id="eip-798">This module is published by NCPEA Press and is presented as an NCPEA/Connexions publication. Each chapter has been peer-reviewed, accepted, and endorsed by the National Council of Professors of Educational Administration (NCPEA) as a significant contribution to the scholarship and practice of education administration. Formatted and edited in Connexions by Theodore Creighton and Brad Bizzell, Virginia Tech and Janet Tareilo, Stephen F. Austin State University.</note><section id="eip-144"><title>Writing Up Your Nonparametric Independent Samples t </title><list id="eip-907" list-type="labeled-item"><title><emphasis effect="underline">About the Authors</emphasis></title><item><emphasis>John R. Slate</emphasis> is a Professor at Sam Houston State University where he teaches Basic and Advanced Statistics courses, as well as professional writing, to doctoral students in Educational Leadership and Counseling.  His research interests lie in the use of educational databases, both state and national, to reform school practices.  To date, he has chaired and/or served over 100 doctoral student dissertation committees.  Recently, Dr. Slate created a website, <link url="www.writingandstatisticalhelp.com"> Writing and Statistical Help</link> to assist students and faculty with both statistical assistance and in editing/writing their dissertations/theses and manuscripts.</item>
+<item><emphasis>Ana Rojas-LeBouef </emphasis> is a Literacy Specialist at the Reading Center at Sam Houston State University where she teaches developmental reading courses.  She recently completed her doctoral degree in Reading, where she conducted a 16-year analysis of Texas statewide data regarding the achievement gap.  Her research interests lie in examining the inequities in achievement among ethnic groups.  Dr. Rojas-LeBouef also assists students and faculty in their writing and statistical needs on the Writing and Statistical website, <link url="www.writingandstatisticalhelp.com"> Writing and Statistical Help</link>
+</item></list><para id="eip-302">The following is an example of how to write up (in manuscript text) your Nonparametric Independent Samples <emphasis effect="italics"> t </emphasis> test statistics. This module is used with a larger Collection (Book) authored by John R. Slate and Ana Rojas-LeBouef from Sam Houston State University and available at:  <link url="http://my.qoop.com/store/NCPEA-Publications-1781472103076212/Calculating-Basic-Statistical-Procedures-in-SPSS--A-Self-Help-and-Practical-Guide-to-Preparing-These-78215421822840/ "><emphasis effect="italics">Calculating Basic Statistical Procedures in SPSS: A Self-Help and Practical Guide to Preparing Theses, Dissertations, and Manuscripts</emphasis> </link> 
+</para></section>
+    <para id="id1168760709096"><emphasis>Gender Differences in Arithmetic Among Grade 4 Students</emphasis></para>
+    <section id="id1168727098012">
+      <title>Research Question</title>
+      <para id="id1168722510649">In this study the following research question was addressed:</para><list id="eip-585" list-type="labeled-item"><item>What is the effect of gender on Arithmetic scores among Grade 4 students?</item>
+</list>
+    </section>
+    <section id="id1168751126479">
+      <title>Results</title>
+      <para id="id1168732071948">An examination of the standardized skewness coefficient (i.e., the skewness value divided by the standard error of the skewness) and standardized kurtosis coefficient (i.e., the kurtosis value divided by the standard error of the kurtosis) revealed serious departures from normality for the dependent variable, Arithmetic, for both boys and girls. Depicted in Table 1 are the four standardized coefficients, all of which were far beyond the boundaries of normality, +/- 3 (Onwuegbuzie &amp; Daniel, 2002).</para>
+      <para id="id1168724071936">Because Arithmetic scores for boys and for girls were not normally distributed, a nonparametric (i.e., Mann-Whitney’s <emphasis effect="italics">U</emphasis>) independent samples <emphasis effect="italics">t</emphasis>-test was used to compare the Arithmetic scores of boys and girls. The Mann-Whitney <emphasis effect="italics">U</emphasis> test revealed a statistically significant gender difference in Arithmetic scores, <emphasis effect="italics">U</emphasis> = 122004.00, <emphasis effect="italics">p</emphasis> &lt; .001. The Cohen’s <emphasis effect="italics">d </emphasis>effect size associated with this difference was 0.40. Using Cohen’s (1988) criteria, this finding represented a small-to-moderate effect size. Presented in Table 2 are the descriptive statistics for Arithmetic scores for boys and for girls. Boys had statistically significantly higher Arithmetic scores than did girls. </para>
+      
+    </section>
+    <section id="id1168742518308">
+      <title>References</title>
+      
+      <list id="eip-49" list-type="labeled-item"><item>Cohen, J. (1988). <emphasis effect="italics">Statistical power analysis for the behavioral sciences </emphasis>(2nd ed.)<emphasis effect="italics">.</emphasis> Hillsdale, NJ: Lawrence Erlbaum. </item>
+<item>Onwuegbuzie, A. J., &amp; Daniel, L. G. (2002). Uses and misuses of the correlation coefficient. <emphasis effect="italics">Research in the Schools, 9</emphasis>(1)<emphasis effect="italics">,</emphasis> 73-90.</item>
+</list>
+      
+      
+      <note id="eip-963">To be compliant with APA 6th edition, students and faculty are to be aware that Table titles are placed "above" the table entry. Titles here are placed below the tables because of special formatting templates and for conciseness of visual presentation.
+
+</note><table id="id1168726225836" summary="Standardized Skewness Coefficients and Standardized Kurtosis Coefficients for Arithmetic Scores by Gender"><title><emphasis effect="italics">Standardized Skewness Coefficients and Standardized Kurtosis Coefficients for Arithmetic Scores by Gender</emphasis></title>
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Variable</entry>
+              <entry>Standardized Skewness Coefficient</entry>
+              <entry>Standardized Kurtosis Coefficient</entry>
+            </row>
+            <row>
+              <entry>Boys</entry>
+              <entry>-11.04</entry>
+              <entry>-11.00</entry>
+            </row>
+            <row>
+              <entry>Girls</entry>
+              <entry>30.41</entry>
+              <entry>11.06</entry>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+      
+      
+      <table id="id1168729425156" summary="Sample Sizes, Means, and Standard Deviations by Gender for Arithmetic Scores"><title><emphasis effect="italics">Sample Sizes, Means, and Standard Deviations by Gender for Arithmetic Scores</emphasis></title>
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Gender</entry>
+              <entry>n</entry>
+              <entry>M</entry>
+              <entry>SD</entry>
+            </row>
+            <row>
+              <entry>Boys</entry>
+              <entry>576</entry>
+              <entry>7.07</entry>
+              <entry>2.96</entry>
+            </row>
+            <row>
+              <entry>Girls</entry>
+              <entry>560</entry>
+              <entry>6.01</entry>
+              <entry>2.36</entry>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+    </section><note id="eip-923">Figures 1 and 2 below came directly from SPSS output. As such, they are not compliant with APA
+6th edition and should not be used in theses, dissertations, or manuscripts. Only Table 1 and 2  
+above the Output from SPSS are compliant with APA format.</note><section id="eip-444"><title>SPSS Statistical Output</title><para id="eip-29"><title>Figure 1. Statistics</title><link url="figure7.1.png/image" window="new">
+      <media id="media1" alt="">
+
+        <image mime-type="image/png" src="../../media/figure7.1.png" id="figure1"/>
+
+      </media>
+      </link>
+</para><para id="eip-477"><title>Figure 2. Test Statistics</title><link url="figure7.2.png/image" window="new">
+      <media id="media2" alt="">
+
+        <image mime-type="image/png" src="../../media/figure7.2.png" id="figure2"/>
+
+      </media>
+      </link></para></section>
+  </content>
+</document>

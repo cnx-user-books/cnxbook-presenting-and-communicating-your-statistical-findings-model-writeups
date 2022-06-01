@@ -1,0 +1,159 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Writing Up Nonparametric Spearman rho Correlation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38053</md:content-id>
+  <md:title>Writing Up Nonparametric Spearman rho Correlation</md:title>
+  <md:abstract/>
+  <md:uuid>ced5a79c-78bf-48c7-ad73-5dd67c58f97c</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-457"><media id="id27091673" alt=""><image src="../../media/ncpealogo.gif" mime-type="image/gif"/></media>
+
+
+</para><note id="eip-618">This module is published by NCPEA Press and is presented as an NCPEA/Connexions publication. Each chapter has been peer-reviewed, accepted, and endorsed by the National Council of Professors of Educational Administration (NCPEA) as a significant contribution to the scholarship and practice of education administration. Formatted and edited in Connexions by Theodore Creighton, Virginia Tech and Janet Tareilo, Stephen F. Austin State University.</note><section id="eip-459"><title>Writing Up Your Nonparametric Spearman rho Correlation</title><list id="eip-382" list-type="labeled-item"><title><emphasis effect="underline">About the Authors</emphasis></title><item><emphasis>John R. Slate</emphasis> is a Professor at Sam Houston State University where he teaches Basic and Advanced Statistics courses, as well as professional writing, to doctoral students in Educational Leadership and Counseling.  His research interests lie in the use of educational databases, both state and national, to reform school practices.  To date, he has chaired and/or served over 100 doctoral student dissertation committees.  Recently, Dr. Slate created a website, <link url="www.writingandstatisticalhelp.com"> Writing and Statistical Help</link> to assist students and faculty with both statistical assistance and in editing/writing their dissertations/theses and manuscripts.</item>
+<item><emphasis>Ana Rojas-LeBouef </emphasis> is a Literacy Specialist at the Reading Center at Sam Houston State University where she teaches developmental reading courses.  She recently completed her doctoral degree in Reading, where she conducted a 16-year analysis of Texas statewide data regarding the achievement gap.  Her research interests lie in examining the inequities in achievement among ethnic groups.  Dr. Rojas-LeBouef also assists students and faculty in their writing and statistical needs on the Writing and Statistical website, <link url="www.writingandstatisticalhelp.com"> Writing and Statistical Help</link>
+</item></list><para id="eip-333">The following is an example of how to write up (in manuscript text) your Spearman rho Correlation statistics. This module is used with a larger Collection (Book) authored by John R. Slate and Ana Rojas-LeBouef from Sam Houston State University and available at:  <link url="http://my.qoop.com/store/NCPEA-Publications-1781472103076212/Calculating-Basic-Statistical-Procedures-in-SPSS--A-Self-Help-and-Practical-Guide-to-Preparing-These-78215421822840/ "><emphasis effect="italics">Calculating Basic Statistical Procedures in SPSS: A Self-Help and Practical Guide to Preparing Theses, Dissertations, and Manuscripts</emphasis> </link> 
+
+</para></section><para id="id1170392645875"><emphasis>Relationships of Economically Disadvantaged and Minority Student Enrollment in Texas Middle Schools</emphasis></para>
+    
+    <section id="id1170389755900">
+      <title>Research Questions</title>
+      <para id="id1170375595328">The following research questions were addressed in this study: </para><list id="eip-758" list-type="enumerated" number-style="lower-alpha"><item>What is the relationship between the percent of economically disadvantaged students and the percent of minority students enrolled at Texas middle schools for the 2003-2004 school year?;</item> 
+<item>What is the relationship between the percent of economically disadvantaged students and the percent of minority students enrolled at Texas middle schools for the 2004-2005 school year?; and </item>
+<item>What is the relationship between the percent of economically disadvantaged students and the percent of minority students enrolled at Texas middle schools for the 2005-2006 school year?</item></list>
+    </section>
+    <section id="id1170373814771">
+      <title>Results</title>
+      <para id="id1170380961101">Sample sizes, means, and standard deviations pertaining to the two variables of interest (i.e., percent of economically disadvantaged students and percent of minority students) for all three years are presented in Table 1. An examination of the scatterplots (not presented) suggested the presence of linearity for the two variables for each of the three years of data analyzed. The presence of linearity permitted the use of correlation coefficients. With respect to the distribution of scores underlying these measures, the standardized skewness coefficients (i.e., skewness divided by the standard error of skewness) and the standardized kurtosis coefficients (i.e., kurtosis divided by the standard error of kurtosis) revealed serious departures from normality for the two variables of interest for all three years of data analyzed. Specifically, for the percent of economically disadvantaged students, the standardized skewness coefficients were -202.38, -146.81, and -146.52, for each of the three years respectively. Similarly, the standardized kurtosis coefficients for the percent of economically disadvantaged students were -6.65, -6.48, and -10.86 for each of the three years respectively. </para>
+      
+      <para id="id1170389047888">Concerning the standardized skewness coefficients for the percent of minority student enrollment, all three coefficients were outside of the limits of normality, -111.43, -162.24, and -130.92 for the 2003-2004, 2004-2005, and 2005-2006 school years respectively. The standardized kurtosis coefficients for minority student enrollment were -10.77, -10.92, and -6.74 for each of the three years respectively. Therefore, all six standardized skewness coefficients and all 6 standardized kurtosis coefficients were outside of the limits of normality, +/- 3, and were indicative of serious departures from normality (Onwuegbuzie &amp; Daniel, 2002). Accordingly, a nonparametric procedure, the Spearman’s rank order correlation coefficient (i.e., Spearman's rho) was performed to address each research question previously delineated.</para>
+      <para id="id1170393952296">The Spearman’s rho revealed a statistically significant relationship between the percent of economically disadvantaged students and the percent of minority students enrolled in Texas middle schools during the 2003-2004 school year (<emphasis effect="italics">r</emphasis><emphasis effect="italics">s</emphasis>[1528] = .76, <emphasis effect="italics">p</emphasis> &lt; .001). The effect size of this relationship was large (Cohen, 1988). Squaring the correlation coefficients indicated that 58.4% of the variance in the percent of economically disadvantaged students was explained by the presence of minority students. Similarly, 58.4% of the variance in the percent of minority student enrollment was accounted for by the presence of economically disadvantaged students.</para>
+      <para id="id1170380951249">For the 2004-2005 school year, the Spearman’s rho revealed a statistically significant relationship between the percent of economically disadvantaged students and the percent of minority students enrolled in Texas middle schools, (<emphasis effect="italics">r</emphasis><emphasis effect="italics">s</emphasis>[1554] = .76, <emphasis effect="italics">p</emphasis> &lt; .001). The effect size of this relationship was large (Cohen, 1988). Squaring the correlation coefficients indicated that 58.2% of the variance in the percent of economically disadvantaged students was explained by the presence of minority students. Similarly, 58.2% of the variance in the percent of minority student enrollment was accounted for by the percent of economically disadvantaged students.</para>
+      <para id="id1170373839708">The Spearman’s rho revealed a statistically significant relationship between the percent of economically disadvantaged students and the percent of minority students enrolled in Texas middle schools during the 2005-2006 school year (<emphasis effect="italics">r</emphasis><emphasis effect="italics">s</emphasis>[1563] = .78, <emphasis effect="italics">p</emphasis> &lt; .001). The effect size of this relationship was large (Cohen, 1988). Squaring the correlation coefficients indicated that 60.2% of the variance in the percent of economically disadvantaged students was explained by the presence of minority students. Similarly, 60.2% of the variance in the percent of minority student enrollment was explained by the presence of economically disadvantaged students.</para>
+      <para id="id1170382456881">In summary, results across the three years of data were consistent. Effect sizes for all three years were large (Cohen, 1988). Moreover, the percent of variance explained by each variable was consistent, ranging from 58.4% to 60.2%. Thus, findings revealed herein were supportive of a consistent relationship between the percent of economically disadvantaged students and the percent of minority students enrolled in Texas middle schools. </para>
+    </section>
+    <section id="id1170384733042">
+      <title>References</title>
+      
+      
+      <list id="eip-122" list-type="labeled-item"><item>Cohen, J. (1988). <emphasis effect="italics">Statistical power analysis for the behavioral sciences </emphasis>(2nd ed.)<emphasis effect="italics">.</emphasis> Hillsdale, NJ: Lawrence Erlbaum. </item>
+<item>Onwuegbuzie, A. J., &amp; Daniel, L. G. (2002). Uses and misuses of the correlation coefficient. <emphasis effect="italics">Research in the Schools, 9</emphasis>(1)<emphasis effect="italics">,</emphasis> 73-90. </item>
+</list>
+      
+      
+      
+      <note id="eip-358">To be compliant with APA 6th edition, students and faculty are to be aware that Table titles are placed "above" the table entry. Titles here are placed below the tables because of special formatting templates and for conciseness of visual presentation.</note><table id="id1170373811193" summary="Sample Sizes, Means, and Standard Deviations for Percentages of Economically Disadvantaged Students and Minority Student Enrollment for the 2003-2004, 2004-2005, and 2005-2006 School Years"><title><emphasis effect="italics">Sample Sizes, Means, and Standard Deviations for Percentages of Economically Disadvantaged Students and Minority Student Enrollment for the 2003-2004, 2004-2005, and 2005-2006 School Years</emphasis></title>
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Year and Variable</entry>
+              <entry>n</entry>
+              <entry>M</entry>
+              <entry>SD</entry>
+            </row>
+            <row>
+              <entry>2003-2004 School Year</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Economically Disadvantaged</entry>
+              <entry>1,528</entry>
+              <entry>51.46</entry>
+              <entry>26.28</entry>
+            </row>
+            <row>
+              <entry>Minority Students</entry>
+              <entry>1,528</entry>
+              <entry>54.54</entry>
+              <entry>31.33</entry>
+            </row>
+            <row>
+              <entry>2004-2005 School Year</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Economically Disadvantaged</entry>
+              <entry>1,554</entry>
+              <entry>54.66</entry>
+              <entry>25.60</entry>
+            </row>
+            <row>
+              <entry>Minority Students</entry>
+              <entry>1,554</entry>
+              <entry>56.95</entry>
+              <entry>31.03</entry>
+            </row>
+            <row>
+              <entry>2005-2006 School Year</entry>
+              <entry/>
+              <entry/>
+              <entry/>
+            </row>
+            <row>
+              <entry>Economically Disadvantaged</entry>
+              <entry>1,563</entry>
+              <entry>54.70</entry>
+              <entry>25.36</entry>
+            </row>
+            <row>
+              <entry>Minority Students</entry>
+              <entry>1,563</entry>
+              <entry>57.88</entry>
+              <entry>30.73</entry>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+      <note id="eip-536">Figures 1, 2, 3, 4, 5, and 6 below came directly from SPSS output. As such, they are not compliant with APA
+6th edition and should not be used in theses, dissertations, or manuscripts. Only Table 1 
+above the Output from SPSS is compliant with APA format.</note><section id="eip-873"><title>SPSS Statistical Output</title><para id="eip-526"><title>Figure 1. Statistics for the 2003-2004 school year</title><link url="figure4.1.png/image" window="new">
+      <media id="media1" alt="">
+
+        <image mime-type="image/png" src="../../media/figure4.1.png" id="figure1"/>
+
+      </media>
+      </link>
+</para><para id="eip-131"><title>Figure 2. Correlations/Spearman rho for the 2003-2004 school year</title><link url="figure4.2.png/image" window="new">
+      <media id="media2" alt="">
+
+        <image mime-type="image/png" src="../../media/figure4.2.png" id="figure2"/>
+
+      </media>
+      </link></para><para id="eip-545"><title>Figure 3. Statistics for the 2004-2005 school year</title><link url="figure4.3.png/image" window="new">
+      <media id="media3" alt="">
+
+        <image mime-type="image/png" src="../../media/figure4.3.png" id="figure3"/>
+
+      </media>
+      </link></para><para id="eip-957"><title>Figure 4. Correlations/Spearman rho for the 2004-2005 school year</title><link url="figure4.4.png/image" window="new">
+      <media id="media4" alt="">
+
+        <image mime-type="image/png" src="../../media/figure4.4.png" id="figure4"/>
+
+      </media>
+      </link></para><para id="eip-127"><title>Figure 5. Statistics for the 2005-2006 school year</title><link url="figure4.5.png/image" window="new">
+      <media id="media5" alt="">
+
+        <image mime-type="image/png" src="../../media/figure4.5.png" id="figure5"/>
+
+      </media>
+      </link></para><para id="eip-517"><title>Figure 6. Correlations/Spearman rho for the 2005-2006 school year</title><link url="figure4.6.png/image" window="new">
+      <media id="media6" alt="">
+
+        <image mime-type="image/png" src="../../media/figure4.6.png" id="figure6"/>
+
+      </media>
+      </link></para></section>
+      
+    </section>
+  </content>
+</document>

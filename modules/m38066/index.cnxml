@@ -1,0 +1,129 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Writing Up Nonparametric ANOVA</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m38066</md:content-id>
+  <md:title>Writing Up Nonparametric ANOVA</md:title>
+  <md:abstract/>
+  <md:uuid>8e0d04f0-7496-4c6b-a7c2-57cd669ba1ab</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-916"><media id="id27091673" alt=""><image src="../../media/ncpealogo.gif" mime-type="image/gif"/></media>
+
+</para><note id="eip-578">This module is published by NCPEA Press and is presented as an NCPEA/Connexions publication. Each chapter has been peer-reviewed, accepted, and endorsed by the National Council of Professors of Educational Administration (NCPEA) as a significant contribution to the scholarship and practice of education administration. Formatted and edited in Connexions by Theodore Creighton and Brad Bizzell, Virginia Tech and Janet Tareilo, Stephen F. Austin State University.</note><section id="eip-838"><title>Writing Up Your Nonparametric One-Way ANOVA</title><list id="eip-382" list-type="labeled-item"><title><emphasis effect="underline">About the Authors</emphasis></title><item><emphasis>John R. Slate</emphasis> is a Professor at Sam Houston State University where he teaches Basic and Advanced Statistics courses, as well as professional writing, to doctoral students in Educational Leadership and Counseling.  His research interests lie in the use of educational databases, both state and national, to reform school practices.  To date, he has chaired and/or served over 100 doctoral student dissertation committees.  Recently, Dr. Slate created a website, <link url="www.writingandstatisticalhelp.com"> Writing and Statistical Help</link> to assist students and faculty with both statistical assistance and in editing/writing their dissertations/theses and manuscripts.</item>
+<item><emphasis>Ana Rojas-LeBouef </emphasis> is a Literacy Specialist at the Reading Center at Sam Houston State University where she teaches developmental reading courses.  She recently completed her doctoral degree in Reading, where she conducted a 16-year analysis of Texas statewide data regarding the achievement gap.  Her research interests lie in examining the inequities in achievement among ethnic groups.  Dr. Rojas-LeBouef also assists students and faculty in their writing and statistical needs on the Writing and Statistical website, <link url="www.writingandstatisticalhelp.com"> Writing and Statistical Help</link>
+</item>
+
+
+
+</list><para id="eip-507">The following is an example of how to write up (in manuscript text) your Nonparametric ANOVA test Statistics. This module is used with a larger Collection (Book) authored by John R. Slate and Ana Rojas-LeBouef from Sam Houston State University and available at:  <link url="http://my.qoop.com/store/NCPEA-Publications-1781472103076212/Calculating-Basic-Statistical-Procedures-in-SPSS--A-Self-Help-and-Practical-Guide-to-Preparing-These-78215421822840/ "><emphasis effect="italics">Calculating Basic Statistical Procedures in SPSS: A Self-Help and Practical Guide to Preparing Theses, Dissertations, and Manuscripts</emphasis> </link> 
+</para></section>
+    <para id="id1166257664358"><emphasis>Differences in Hispanic Student Enrollment as a Function of School Level</emphasis></para>
+    <section id="id1166252914076">
+      <title>Research Question</title>
+      <para id="id1166253616279">The following research question was addressed in this study: </para><list id="eip-187" list-type="labeled-item"><item>What is the difference in Hispanic student enrollment as a function of school level?</item>
+</list>
+    </section>
+    <section id="id1166257568680">
+      <title>Results</title>
+      <para id="id1166251243211"> Descriptive statistics for the percent of Hispanic students enrolled in Texas elementary schools, middle schools, and high schools are depicted in Table 1. Prior to conducting an inferential statistical procedure to address the research question previously delineated, checks of the normality of the data were conducted. In particular, the standardized skewness coefficients (i.e., the skewness value divided by its standard error) and the standardized kurtosis coefficients (i.e., the kurtosis value divided by its standard error) were calculated for the percent of Hispanic students enrolled in Texas elementary schools, middle schools, and high schools. As can be seen in Appendix B, all of these values were far outside of the boundaries of normally distributed data (i.e., -3 to +3) (Onwuegbuzie &amp; Daniel, 2002). Thus, a nonparametric analysis of variance (ANOVA) procedure was used. Specifically, the Kruskal-Wallis test was employed.</para>
+      <para id="id1166251986104">The nonparametric ANOVA revealed a statistically significant difference in the percent of Hispanic students enrolled in Texas schools as a function of school level, <emphasis effect="italics">Χ</emphasis><emphasis effect="italics">2</emphasis><sup/>= 75.72, <emphasis effect="italics">p</emphasis> &lt; .001. The effect size associated with this difference, as measured by Cramer’s<emphasis effect="italics"> V</emphasis>, was .07. Using Cohen’s (1988) criteria, this coefficient was indicative of a small effect. A series of nonparametric pairwise follow-up tests at the Bonferroni (Vogt, 2005) adjusted level (i.e., .05 divided by 3 analyses) of .0167 indicated that a statistically significantly higher percentage of Hispanic students were enrolled in elementary schools than in either middle or high schools. Similarly, a higher percentage of Hispanic students were enrolled in middle school than were enrolled in high schools. Readers are directed to Table 1 for the descriptive statistics for Hispanic student enrollment as a function of school level.</para>
+    </section>
+    <section id="id1166257735078">
+      <title>References</title>
+      
+      <list id="eip-195" list-type="labeled-item"><item>Cohen, J. (1988). <emphasis effect="italics">Statistical power analysis for the behavioral sciences </emphasis>(2nd ed.)<emphasis effect="italics">.</emphasis> Hillsdale, NJ: Lawrence Erlbaum. </item>
+<item>Onwuegbuzie, A. J., &amp; Daniel, L. G. (2002). Uses and misuses of the correlation coefficient. <emphasis effect="italics">Research in the Schools, 9</emphasis>(1)<emphasis effect="italics">,</emphasis> 73-90. </item>
+<item>Vogt, W. P. (2005). <emphasis effect="italics">Dictionary of statistics and methodology: A nontechnical guide for the social sciences</emphasis> (3rd ed.). Thousand Oaks, CA: Sage.</item></list>
+      
+      <note id="eip-692">To be compliant with APA 6th edition, students and faculty are to be aware that Table titles are placed "above" the table entry. Titles here are placed below the tables because of special formatting templates and for conciseness of visual presentation.
+
+</note>
+      
+      <table id="id1166251217460" summary="Sample Sizes, Means, and Standard Deviations for the Percent of Hispanic Students Enrolled in Texas Schools as a Function of School Level"><title><emphasis effect="italics"> Sample Sizes, Means, and Standard Deviations for the Percent of Hispanic Students Enrolled in Texas Schools as a Function of School Level </emphasis></title>
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>School Level</entry>
+              <entry>n </entry>
+              <entry>M</entry>
+              <entry>SD</entry>
+            </row>
+            <row>
+              <entry>Elementary</entry>
+              <entry>4,460</entry>
+              <entry>48.86</entry>
+              <entry>31.68</entry>
+            </row>
+            <row>
+              <entry>Middle</entry>
+              <entry>1,661</entry>
+              <entry>44.08</entry>
+              <entry>30.62</entry>
+            </row>
+            <row>
+              <entry>High</entry>
+              <entry>1,721</entry>
+              <entry>41.45</entry>
+              <entry>30.92</entry>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+      <para id="id1166254964531"/>
+      
+      <list id="eip-658" list-type="labeled-item"><title><emphasis effect="italics">Nonparametric ANOVA and Effect Size Formulae</emphasis></title><item>
+The chi-square value can be used to compute the effect size. Specifically, Cramer’s <emphasis effect="italics">V</emphasis> is used, which is defined as Cramer’s <emphasis effect="italics">V</emphasis> = √{χ<sup>2</sup> / (df x n)}</item>
+<item>Where χ<sup>2</sup> is the value extracted from the Kruskal-Wallis test, df = degrees of freedom, and n = the sample size.</item>
+<item>For the above data, we have Cramer’s <emphasis effect="italics">V</emphasis> = √{75.72 / (2 x 7842)} = .07</item>
+</list>
+      
+      
+      
+      
+    </section><note id="eip-147">Figures 1, 2, 3, 4, 5, and 6 below came directly from SPSS output. As such, they are not compliant with APA
+6th edition and should not be used in theses, dissertations, or manuscripts. Only Table 1   
+above the Output from SPSS is compliant with APA format.</note><section id="eip-368"><title>SPSS Statistical Output</title><para id="eip-439"><title>Figure 1</title><link url="figure10.1.PNG/image" window="new">
+      <media id="media1" alt="">
+
+        <image mime-type="image/png" src="../../media/figure10.1.PNG" id="figure1"/>
+
+      </media>
+      </link>
+</para><para id="eip-961"><title>Figure 2</title><link url="figure10.2.PNG/image" window="new">
+      <media id="media2" alt="">
+
+        <image mime-type="image/png" src="../../media/figure10.2.PNG" id="figure2"/>
+
+      </media>
+      </link></para><para id="eip-198"><title>Figure 3</title><link url="figure10.3.PNG/image" window="new">
+      <media id="media3" alt="">
+
+        <image mime-type="image/png" src="../../media/figure10.3.PNG" id="figure3"/>
+
+      </media>
+      </link></para><para id="eip-566"><title>Figure 4</title><link url="figure10.4.PNG/image" window="new">
+      <media id="media4" alt="">
+
+        <image mime-type="image/png" src="../../media/figure10.4.PNG" id="figure4"/>
+
+      </media>
+      </link></para><para id="eip-931"><title>Figure 5</title><link url="figure10.5.PNG/image" window="new">
+      <media id="media5" alt="">
+
+        <image mime-type="image/png" src="../../media/figure10.5.PNG" id="figure5"/>
+
+      </media>
+      </link></para><para id="eip-601"><title>Figure 6</title><link url="figure10.6.PNG/image" window="new">
+      <media id="media6" alt="">
+
+        <image mime-type="image/png" src="../../media/figure10.6.PNG" id="figure6"/>
+
+      </media>
+      </link></para></section>
+  </content>
+</document>

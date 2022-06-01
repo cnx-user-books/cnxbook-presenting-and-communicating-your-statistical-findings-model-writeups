@@ -1,0 +1,198 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Writing Up Chi-square</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m37835</md:content-id>
+  <md:title>Writing Up Chi-square</md:title>
+  <md:abstract/>
+  <md:uuid>74fb0f46-69e2-49c1-b1f4-33ce0be9f91f</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-677"><media id="id27091673" alt=""><image src="../../media/ncpealogo.gif" mime-type="image/gif"/></media>
+</para><note id="eip-674">This module is published by NCPEA Press and is presented as an NCPEA/Connexions publication. Each chapter has been peer-reviewed, accepted, and endorsed by the National Council of Professors of Educational Administration (NCPEA) as a significant contribution to the scholarship and practice of education administration. Formatted and edited in Connexions by Theodore Creighton and Brad Bizzell, Virginia Tech and Janet Tareilo, Stephen F. Austin State University.</note><section id="eip-384"><title>Writing Up Your Chi-Square</title><list id="eip-828" list-type="labeled-item"><title><emphasis effect="underline">About the Authors</emphasis></title><item><emphasis>John R. Slate</emphasis> is a Professor at Sam Houston State University where he teaches Basic and Advanced Statistics courses, as well as professional writing, to doctoral students in Educational Leadership and Counseling.  His research interests lie in the use of educational databases, both state and national, to reform school practices.  To date, he has chaired and/or served over 100 doctoral student dissertation committees.  Recently, Dr. Slate created a website, <link url="www.writingandstatisticalhelp.com"> Writing and Statistical Help</link> to assist students and faculty with both statistical assistance and in editing/writing their dissertations/theses and manuscripts.</item>
+<item><emphasis>Ana Rojas-LeBouef </emphasis> is a Literacy Specialist at the Reading Center at Sam Houston State University where she teaches developmental reading courses.  She recently completed her doctoral degree in Reading, where she conducted a 16-year analysis of Texas statewide data regarding the achievement gap.  Her research interests lie in examining the inequities in achievement among ethnic groups.  Dr. Rojas-LeBouef also assists students and faculty in their writing and statistical needs on the Writing and Statistical website, <link url="www.writingandstatisticalhelp.com"> Writing and Statistical Help</link>
+</item></list><para id="eip-420">The following is an example of how to write up (in manuscript text) your Chi-Square statistics. This module is used with a larger Collection (Book) authored by John R. Slate and Ana Rojas-LeBouef from Sam Houston State University and available at:  <link url="http://my.qoop.com/store/NCPEA-Publications-1781472103076212/Calculating-Basic-Statistical-Procedures-in-SPSS--A-Self-Help-and-Practical-Guide-to-Preparing-These-78215421822840/"><emphasis effect="italics">Calculating Basic Statistical Procedures in SPSS: A Self-Help and Practical Guide to Preparing Theses, Dissertations, and Manuscripts</emphasis> </link> 
+</para></section>
+    <para id="eip-972"><emphasis>Gender Differences in Reading Group Membership</emphasis></para><section id="eip-713"><title>Research Question</title><para id="eip-793">The following research question was addressed in this investigation: What is the difference between boys and girls in their reading group membership?
+</para></section>
+    
+    
+    
+    
+    
+    <section id="eip-242"><title>Results</title><para id="eip-695">To ascertain whether a difference was present in reading group membership (i.e., Excellent, Good, Extremely Poor) between boys and girls, a Pearson chi-square was conducted. This statistical procedure was viewed as the optimal statistical procedure to use because frequency data were present for reading group membership and for gender. As such, chi-squares are the statistical procedure of choice when both variables are categorical. In addition, with the large sample size, the available sample size per cell was more than five. Therefore, the assumptions for utilizing a chi-square were met.
+</para><para id="eip-315">For this research question in which the focus was placed on reading group membership between boys and girls, the result was statistically significant, χ<emphasis effect="italics">2</emphasis>(2) = 122.86, <emphasis effect="italics">p</emphasis> &lt; .001. The effect size for this finding, Cramer’s <emphasis effect="italics">V</emphasis>, was moderate, .32 (Cohen, 1988). As can be seen in Table 1, 47.30% of the girls were in the Excellent Reader group, compared to only 21.4% of the boys. Most of the boys were in the Extremely Poor Reader group, 57.40%, compared to only 27.30% of the girls. </para></section><section id="eip-772"><title>Reference</title><list id="eip-868" list-type="labeled-item"><item>Cohen, J. (1988). <emphasis effect="italics">Statistical power analysis for the behavioral sciences </emphasis>(2nd ed.)<emphasis effect="italics">.</emphasis> Hillsdale, NJ: Lawrence Erlbaum.</item>
+</list></section>
+    
+    
+    
+    
+    
+    
+    
+    <note id="eip-274">To be compliant with APA 6th edition, students and faculty are to be aware that Table titles are placed "above" the table entry. Titles here are placed below the tables because of special formatting templates and for conciseness of visual presentation.</note><table id="id1170384164534" summary="Frequencies and Percentages of Reading Group Membership by Gender"><title><emphasis effect="italics">Frequencies and Percentages of Reading Group Membership by Gender</emphasis></title>
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <tbody>
+          <row>
+            <entry>Reading Group</entry>
+            <entry>Girls <emphasis effect="italics">n</emphasis> and %ageof Total</entry>
+            <entry>Boys <emphasis effect="italics">n</emphasis> and %ageof Total</entry>
+          </row>
+          <row>
+            <entry>Excellent Reader</entry>
+            <entry>47.30% (<emphasis effect="italics">n</emphasis> = 279)</entry>
+            <entry>21.40% (<emphasis effect="italics">n</emphasis> = 126)</entry>
+          </row>
+          <row>
+            <entry>Good Reader</entry>
+            <entry>25.40% (<emphasis effect="italics">n</emphasis> = 150)</entry>
+            <entry>21.20% (<emphasis effect="italics">n</emphasis> = 125)</entry>
+          </row>
+          <row>
+            <entry>Extremely Poor Reader</entry>
+            <entry>27.30% (<emphasis effect="italics">n</emphasis> = 161)</entry>
+            <entry>57.40% (<emphasis effect="italics">n</emphasis> = 338)</entry>
+          </row>
+        </tbody>
+      
+
+
+</tgroup>
+</table>
+    
+    
+    
+    <section id="eip-979"><title>SPSS Statistical Output</title><note id="eip-565">Tables 2, 3, and 4 below came directly from SPSS output. As such, they are not compliant with APA
+6th edition and should not be used in theses, dissertations, or manuscripts. Only Table 1
+above the Output from SPSS is compliant with APA format.</note></section><table id="eip-381" summary="tabele"><title>Chi-Square Tests</title><tgroup cols="3"><tbody>
+  <row>
+    <entry/>
+    <entry>Value</entry>
+    <entry>df</entry>
+<entry>Asymp. Sig. (2-sided)</entry>
+  </row>
+  <row>
+    <entry>Pearson Chi-Square</entry>
+    <entry><emphasis>122.856<sup>a</sup></emphasis></entry>
+    <entry><emphasis>2</emphasis></entry>
+ <entry><emphasis>.000</emphasis></entry>
+  </row>
+  <row>
+    <entry>Likelihood ratio</entry>
+    <entry>125.706</entry>
+    <entry>2</entry>
+    <entry>.000</entry>
+  </row>
+<row>
+    <entry>Linear-by-Linear Association</entry>
+    <entry>121.427</entry>
+    <entry>1</entry>
+    <entry>.000</entry>
+  </row>
+<row>
+    <entry>N of Valid Cases</entry>
+    <entry>1179</entry>
+    <entry/>
+    <entry/>
+  </row>
+</tbody>
+</tgroup>
+<caption>a. 0 cells (.0%) have expected count less than 5. The minimum expected count is 137.38.</caption></table>
+    <table id="eip-323" summary="Symmetric Measures"><title>Symmetric Measures</title>
+<tgroup cols="4"><tbody>
+  <row>
+    <entry/>
+<entry/>
+    <entry>Value</entry>
+    <entry>Approx. Sig.</entry>
+  </row>
+  <row>
+    <entry>Nominal by Nominal</entry>
+    <entry>Phi</entry>
+    <entry>.323</entry>
+<entry>.000</entry>
+  </row>
+  <row>
+    <entry/>
+    <entry>Cramer's V</entry>
+    <entry><emphasis>.323</emphasis></entry>
+<entry>.000</entry>
+  </row>
+ <row>
+    <entry>N of Valid Cases</entry>
+    <entry/>
+    <entry>1179</entry>
+<entry/>
+  </row>
+</tbody>
+
+</tgroup>
+</table>
+    <table id="eip-438" summary="Gender of Persons in Study"><title>Gender of Persons in Study</title>
+<tgroup cols="6"><tbody>
+  <row>
+    <entry/>
+    <entry/>
+    <entry>Excellent Reader</entry>
+    <entry>Good Reader</entry>
+    <entry>Extremely Poor Reader</entry>
+    <entry>Total</entry>
+  </row>
+  <row>
+    <entry>Gender of Persons in Study</entry>
+    <entry>Boys Count</entry>
+    <entry>126</entry>
+    <entry>125</entry>
+    <entry>338</entry>
+    <entry>589</entry>
+  </row>
+  <row>
+    <entry/>
+    <entry>% within Gender</entry>
+    <entry>21.4%</entry>
+    <entry>21.2%</entry>
+    <entry>57.4%</entry>
+    <entry>100%</entry>
+  </row>
+  <row>
+    <entry/>
+    <entry>Girls Count</entry>
+    <entry>279</entry>
+    <entry>150</entry>
+    <entry>161</entry>
+    <entry>590</entry>
+  </row>
+  <row>
+    <entry/>
+    <entry>% within Gender</entry>
+    <entry>47.3%</entry>
+    <entry>25.4%</entry>
+    <entry>27.3%</entry>
+    <entry>100%</entry>
+  </row>
+  <row>
+    <entry>Total</entry>
+    <entry>Count</entry>
+    <entry>405</entry>
+    <entry>275</entry>
+    <entry>499</entry>
+    <entry>1179</entry>
+  </row>
+  <row>
+    <entry/>
+    <entry>% of total</entry>
+    <entry>34.4%</entry>
+    <entry>23.3%</entry>
+    <entry>42.3%</entry>
+    <entry>100%</entry>
+  </row>
+</tbody>
+
+
+
+</tgroup>
+</table>
+  </content>
+</document>

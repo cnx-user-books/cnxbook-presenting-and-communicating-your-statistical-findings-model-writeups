@@ -1,0 +1,119 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Writing Up Parametric Pearson Correlation</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m37526</md:content-id>
+  <md:title>Writing Up Parametric Pearson Correlation</md:title>
+  <md:abstract/>
+  <md:uuid>561cdba1-efee-4a89-9f9b-e35e5cb8b2a9</md:uuid>
+</metadata>
+
+<content>
+    
+    <para id="eip-47"><media id="id27091673" alt=""><image src="../../media/ncpealogo.gif" mime-type="image/gif"/></media>
+
+
+
+
+
+
+
+</para><note id="eip-908">This manuscript is published by NCPEA Press and is presented as an NCPEA/Connexions publication. Each chapter has been peer-reviewed, accepted, and endorsed by the National Council of Professors of Educational Administration (NCPEA) as a significant contribution to the scholarship and practice of education administration. </note><section id="eip-271"><title>Writing Up Your Parametric Pearson Correlation</title><list id="eip-680" list-type="labeled-item"><title><emphasis effect="underline">About the Authors</emphasis></title><item><emphasis>John R. Slate</emphasis> is a Professor at Sam Houston State University where he teaches Basic and Advanced Statistics courses, as well as professional writing, to doctoral students in Educational Leadership and Counseling.  His research interests lie in the use of educational databases, both state and national, to reform school practices.  To date, he has chaired and/or served over 100 doctoral student dissertation committees.  Recently, Dr. Slate created a website, <link url="www.writingandstatisticalhelp.com"> Writing and Statistical Help</link> to assist students and faculty with both statistical assistance and in editing/writing their dissertations/theses and manuscripts.</item>
+<item><emphasis>Ana Rojas-LeBouef </emphasis> is a Literacy Specialist at the Reading Center at Sam Houston State University where she teaches developmental reading courses.  She recently completed her doctoral degree in Reading, where she conducted a 16-year analysis of Texas statewide data regarding the achievement gap.  Her research interests lie in examining the inequities in achievement among ethnic groups.  Dr. Rojas-LeBouef also assists students and faculty in their writing and statistical needs on the Writing and Statistical website, <link url="www.writingandstatisticalhelp.com"> Writing and Statistical Help</link>
+</item></list><para id="eip-160">The following is an example of how to write up (in manuscript text) your Pearson Correlation statistics. This module is used with a larger Collection (Book) authored by John R. Slate and Ana Rojas-LeBouef from Sam Houston State University and available at:  <link url="http://my.qoop.com/store/NCPEA-Publications-1781472103076212/Calculating-Basic-Statistical-Procedures-in-SPSS--A-Self-Help-and-Practical-Guide-to-Preparing-These-78215421822840/ "><emphasis effect="italics">Calculating Basic Statistical Procedures in SPSS: A Self-Help and Practical Guide to Preparing Theses, Dissertations, and Manuscripts</emphasis> </link> 
+</para></section><para id="eip-400"><emphasis>College-Readiness Rates in Reading and Math: Are They Related?</emphasis></para><section id="id1163985056124">
+      <title>Research Question</title>
+      <para id="id1163980175849"> The following research question was addressed in this investigation: What is the relationship between Texas high school students’ college-readiness rates in reading and in math for the 2007-2008 school year?</para>
+    </section>
+    <section id="id1163993483870">
+      <title>Results</title>
+      <para id="id1163980345012">Prior to conducting correlational procedures, the scatterplot (present in the Appendix) was examined and was clearly suggestive of a bivariate linear relationship between the two variables. No departure from a linear relationship was evident, thereby justifying the use of a correlation coefficient. Regarding the underlying distribution of scores for college-readiness rates in reading and in math, the standardized skewness coefficients (i.e., the skewness value divided by the standard error of skewness) and the standardized kurtosis coefficients (i.e., the kurtosis value divided by the standard error of kurtosis) were calculated and yielded values that were well within the range of normality (i.e., +/- 3, Onwuegbuzie &amp; Daniel, 2002). Readers are directed to Table 1 for the values of these standardized coefficients. Because all four coefficients were reflective of normally distributed data, a parametric correlation procedure, specifically the Pearson's product-moment correlation coefficient, was calculated. </para>
+      <para id="id1163983260183"><emphasis effect="italics"/>To determine whether a statistically significant relationship was present between Texas students’ college-readiness rates in reading and math, a Pearson <emphasis effect="italics">r</emphasis> was calculated. For the 2007-2008 school year, the finding was statistically significant, <emphasis effect="italics">r</emphasis>(1371) = .69, <emphasis effect="italics">p</emphasis> &lt; .001, indicating the presence of a strong statistically significant positive relationship between college-readiness rates in reading and in math. Using Cohen’s (1988) values, this <emphasis effect="italics">r</emphasis> value was reflective of a large relationship. Squaring this <emphasis effect="italics">r</emphasis> value indicated that college-readiness rates in reading and in math overlapped 47.61%. </para>
+    </section>
+    <section id="id1163979553973">
+      <title>References</title>
+      
+      
+      <list id="eip-620" list-type="labeled-item"><item>Cohen, J. (1988). <emphasis effect="italics">Statistical power analysis for the behavioral sciences </emphasis>(2nd ed.)<emphasis effect="italics">.</emphasis> Hillsdale, NJ: Lawrence Erlbaum. </item>
+<item>Onwuegbuzie, A. J., &amp; Daniel, L. G. (2002). Uses and misuses of the correlation coefficient. <emphasis effect="italics">Research in the Schools, 9</emphasis>(1)<emphasis effect="italics">,</emphasis> 73-90.</item>
+</list>
+      
+      
+      
+      <note id="eip-718">To be compliant with APA 6th edition, students and faculty are to be aware that Table titles are placed "above" the table entry. Titles here are placed below the tables because of special formatting templates and for conciseness of visual presentation.</note><table id="id1163978011548" summary="Standardized Skewness Coefficients and Standardized Kurtosis Coefficients for College-Readiness Rates in Reading and in Math for All Texas High School Students"><title><emphasis effect="italics">Standardized Skewness Coefficients and Standardized Kurtosis Coefficients for College-Readiness Rates in Reading and in Math for All Texas High School Students</emphasis></title>
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Variable</entry>
+              <entry>Standardized Skewness Coefficient</entry>
+              <entry>Standardized Kurtosis Coefficient</entry>
+            </row>
+            <row>
+              <entry>Reading Readiness Rates</entry>
+              <entry>-1.63</entry>
+              <entry>-1.61</entry>
+            </row>
+            <row>
+              <entry>Math Readiness Rates</entry>
+              <entry>-1.39</entry>
+              <entry>0.18</entry>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+      
+      
+      <table id="id1646332" summary="Descriptive Statistics for College-Readiness Rates in Reading and in Math for All Texas High School Students"><title><emphasis effect="italics">Descriptive Statistics for College-Readiness Rates in Reading and in Math for All Texas High School Students</emphasis>        </title>
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Variable</entry>
+              <entry>n</entry>
+              <entry>M</entry>
+              <entry>SD</entry>
+            </row>
+            <row>
+              <entry>Reading Readiness Rates</entry>
+              <entry>1377</entry>
+              <entry>53.91</entry>
+              <entry>16.09</entry>
+            </row>
+            <row>
+              <entry>Math Readiness Rates</entry>
+              <entry>1376</entry>
+              <entry>54.08</entry>
+              <entry>16.26</entry>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+    </section><section id="eip-709"><title>SPSS Statistical Output</title><note id="eip-604">Figures 1, 2, and 3 below came directly from SPSS output. As such, they are not compliant with APA
+6th edition and should not be used in theses, dissertations, or manuscripts. Only Tables 1 and 2
+above the Output from SPSS is compliant with APA format.</note><para id="eip-660"><title>Figure 1. Scatterplot of Reading Readiness Rates with Math Readiness Rates. Linearity is clearly present</title><link url="figure3.1.png/image" window="new">
+      <media id="media1" alt="">
+
+        <image mime-type="image/png" src="../../media/figure3.1.png" id="figure1"/>
+
+      </media>
+      </link>
+</para></section><para id="eip-393"><title>Figure 2</title><link url="figure3.2.png/image" window="new">
+      <media id="media2" alt="">
+
+        <image mime-type="image/png" src="../../media/figure3.2.png" id="figure2"/>
+
+      </media>
+      </link></para><para id="eip-860"><title>Figure 3</title><link url="figure3.3.png/image" window="new">
+      <media id="media3" alt="">
+
+        <image mime-type="image/png" src="../../media/figure3.3.png" id="figure3"/>
+
+      </media>
+      </link></para>
+  </content>
+</document>

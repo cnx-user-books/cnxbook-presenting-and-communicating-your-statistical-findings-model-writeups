@@ -1,0 +1,386 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Writing Up Descriptive Statistics</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m37487</md:content-id>
+  <md:title>Writing Up Descriptive Statistics</md:title>
+  <md:abstract/>
+  <md:uuid>920506ae-7e63-4d9d-8e2f-26bbbb78771c</md:uuid>
+</metadata>
+
+<content>
+    
+    <para id="eip-304"><media id="id27091673" alt=""><image src="../../media/ncpealogo.gif" mime-type="image/gif"/></media>
+
+
+</para><note id="eip-501">This module is published by NCPEA Press and is presented as an NCPEA/Connexions publication. Each chapter has been peer-reviewed, accepted, and endorsed by the National Council of Professors of Educational Administration (NCPEA) as a significant contribution to the scholarship and practice of education administration. Formatted and edited in Connexions by Theodore Creighton and Brad Bizzell, Virginia Tech and Janet Tareilo, Stephen F. Austin State University.</note><section id="eip-777"><title>Writing Up Your Descriptive Statistics</title><list id="eip-666" list-type="labeled-item"><title><emphasis effect="underline">Author Information</emphasis></title><item><emphasis>John R. Slate</emphasis> is a Professor at Sam Houston State University where he teaches Basic and Advanced Statistics courses, as well as professional writing, to doctoral students in Educational Leadership and Counseling.  His research interests lie in the use of educational databases, both state and national, to reform school practices.  To date, he has chaired and/or served on over 100 doctoral student dissertation committees.  Recently, Dr. Slate created a website, <link url="www.writingandstatisticalhelp.com"> Writing and Statistical Help</link> to assist students and faculty with both statistical assistance and in editing/writing their dissertations/theses and manuscripts.</item>
+<item><emphasis>Ana Rojas-LeBouef </emphasis> is a Literacy Specialist at the Reading Center at Sam Houston State University where she teaches developmental reading courses.  She recently completed her doctoral degree in Reading, where she conducted a 16-year analysis of Texas statewide data regarding the achievement gap.  Her research interests lie in examining the inequities in achievement among ethnic groups.  Dr. Rojas-LeBouef also assists students and faculty in their writing and statistical needs on the Writing and Statistical website, <link url="www.writingandstatisticalhelp.com"> Writing and Statistical Help</link>
+</item></list><para id="eip-753">The following is an example of how to write up (in manuscript text) your descriptive statistics. This module is used with a larger Collection (Book) authored by John R. Slate and Ana Rojas-LeBouef from Sam Houston State University and available at:  <link url="http://my.qoop.com/store/NCPEA-Publications-1781472103076212/Calculating-Basic-Statistical-Procedures-in-SPSS--A-Self-Help-and-Practical-Guide-to-Preparing-These-78215421822840/ "><emphasis effect="italics">Calculating Basic Statistical Procedures in SPSS: A Self-Help and Practical Guide to Preparing Theses, Dissertations, and Manuscripts</emphasis> </link> </para></section><list id="eip-23" list-type="labeled-item"><item><emphasis>Intelligence Test Scores of Students with Disabilities</emphasis></item>
+</list>
+    
+    
+    <section id="eip-474"><title>Research Questions</title><para id="eip-256">The following research questions were addressed in this study: (a) Of the five groups of elementary school students in this study, which group had the most participants, which group had the second most participants, and which group had the fewest participants? How many participants comprised the total sample for this study?; (b) How did these students perform on the three scores of: Full Scale IQ, the Verbal IQ, the Performance IQ?; (c) To what extent were students’ scores normally distributed on the Full Scale IQ, the Verbal IQ, and the Performance IQ?; (d) How well or how poorly did the boys score on the Full Scale IQ, the Verbal IQ, and on the Performance IQ?; (e) How well or how poorly did the boys score on the Full Scale IQ, the Verbal IQ, and on the Performance IQ?; and (f) Without using the words statistically or significantly, compare girls’ scores with the boys’ scores.
+</para></section><section id="eip-872"><title>Results</title><para id="eip-165">In this research investigation, the total number of participants was 1,789 students. Of the five groups of students whose scores were analyzed in this study, the largest group consisted of 702 students with listening disorders, with the second largest group being 605 students with a label of Other Health Impaired. The fewest participants were in the group of students with a label of Muscular Dystrophy (<emphasis effect="italics">n</emphasis> = 275). For these five groups of students, students with muscular dystrophy obtained the highest scores on the Performance IQ (<emphasis effect="italics">M</emphasis> = 92.66) and the lowest scores on the Full Scale IQ (<emphasis effect="italics">M</emphasis> = 70.12). Readers are referred to Table 1 for the descriptive statistics concerning the IQ test scores.
+</para><para id="eip-423">Regarding the normality of the three IQ scores analyzed in this study, the standardized skewness coefficients (i.e., skewness divided by the standard error of skewness) and the standardized kurtosis coefficients (i.e., kurtosis divided by the standard error of kurtosis) were all within the range of +/- 3 (Onwuegbuzie &amp; Daniel, 2002). With all standardized coefficients being within the +/- 3 range, students’ performance on the three IQ measures were determined to be normally distributed. Readers are referred to Table 2 for the standardized coefficients concerning normality of the IQ test scores.</para><para id="eip-630">Finally for the last three research questions, the scores of girls and boys were compared. Both girls and boys performed below the average score on the IQ measure (<emphasis effect="italics">M</emphasis> = 100). Girls scored higher than boys on the Verbal IQ, the Performance IQ, and on the Full Scale IQ. The difference between girls and boys was greatest on the Verbal IQ, where boys outperformed girls by 13 points, and lowest on the Performance IQ, where girls only outperformed boys by 2 points. Readers are referred to Table 3 for the descriptive statistics for the three IQ measures by gender.</para></section>
+    
+    
+    
+    
+    
+    <section id="eip-306"><title>References</title><para id="eip-154">Onwuegbuzie, A. J., &amp; Daniel, L. G. (2002). Uses and misuses of the correlation coefficient. <emphasis effect="italics">Research in the Schools, 9</emphasis>(1)<emphasis effect="italics">,</emphasis> 73-90. 
+</para></section>
+    
+    
+    
+    
+    <note id="eip-24" type="note">To be compliant with APA 6th edition, students and faculty are to be aware that Table titles are placed "above" the table entry. Titles here are placed below the tables because of special formatting templates and for conciseness of visual presentation.</note><table id="id8143300" summary="Descriptive Statistics for Student IQ Scores"><title><emphasis effect="italics">Descriptive Statistics for Student IQ Scores </emphasis></title>
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <tbody>
+          <row>
+            <entry>Cognitive Measure</entry>
+            <entry>M</entry>
+            <entry>SD</entry>
+          </row>
+          <row>
+            <entry>Full Scale IQ</entry>
+            <entry>77.73</entry>
+            <entry>13.54</entry>
+          </row>
+          <row>
+            <entry>Verbal IQ</entry>
+            <entry>77.97</entry>
+            <entry>13.66</entry>
+          </row>
+          <row>
+            <entry>Performance IQ</entry>
+            <entry>81.14</entry>
+            <entry>14.01</entry>
+          </row>
+        </tbody>
+      
+</tgroup>
+</table>
+    
+    
+    <table id="id1172569693214" summary="Standardized Skewness Coefficients and Standardized Kurtosis Coefficients for Students’ IQ Scores"><title><emphasis effect="italics">Standardized Skewness Coefficients and Standardized Kurtosis Coefficients for Students’ IQ Scores </emphasis></title>
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <tbody>
+          <row>
+            <entry>Cognitive Measure</entry>
+            <entry>Standardized Skewness Coefficient</entry>
+            <entry>Standardized Kurtosis Coefficient</entry>
+          </row>
+          <row>
+            <entry>Full Scale IQ</entry>
+            <entry>-1.28</entry>
+            <entry>0.89</entry>
+          </row>
+          <row>
+            <entry>Verbal IQ</entry>
+            <entry>2.03</entry>
+            <entry>0.76</entry>
+          </row>
+          <row>
+            <entry>Performance IQ</entry>
+            <entry>-0.99</entry>
+            <entry>0.55</entry>
+          </row>
+        </tbody>
+      
+
+</tgroup>
+</table>
+    
+    
+    <table id="id1172570125987" summary=""><title><emphasis effect="italics">Descriptive Statistics for Cognitive Scores by Gender</emphasis></title><tgroup cols="5">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <tbody>
+          <row>
+            <entry/>
+            <entry namest="c2" nameend="c3">Boys</entry>
+            <entry namest="c4" nameend="c5">Girls</entry>
+          </row>
+          <row>
+            <entry>Cognitive Measure </entry>
+            <entry>M</entry>
+            <entry>SD</entry>
+            <entry>M</entry>
+            <entry>SD</entry>
+          </row>
+          <row>
+            <entry>Full Scale IQ</entry>
+            <entry>69.52</entry>
+            <entry>15.21</entry>
+            <entry>85.88</entry>
+            <entry>3.34</entry>
+          </row>
+          <row>
+            <entry>Verbal IQ</entry>
+            <entry>90.12</entry>
+            <entry>18.91</entry>
+            <entry>76.99</entry>
+            <entry>23.03</entry>
+          </row>
+          <row>
+            <entry>Performance IQ</entry>
+            <entry>87.99</entry>
+            <entry>23.65</entry>
+            <entry>89.12</entry>
+            <entry>44.31</entry>
+          </row>
+        </tbody>
+      </tgroup>
+    <caption>Descriptive Statistics for Cognitive Scores by Gender</caption></table>
+    
+    
+    <section id="eip-535"><title>Output from SPSS</title><note id="eip-692">Tables 4, 5, and 6 below came directly from SPSS output. As such, they are not compliant with APA
+6th edition and should not be used in theses, dissertations, or manuscripts. Only Tables 1, 2, and 3
+above the Output from SPSS are compliant with APA format.</note></section><table id="id8876147" summary=""><title>Disability Group Membership</title><tgroup cols="6">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <colspec colnum="6" colname="c6"/>
+        <tbody>
+          <row>
+            <entry namest="c1" nameend="c2">Frequency</entry>
+            <entry>Percent</entry>
+            <entry namest="c4" nameend="c5">Valid Percent</entry>
+            <entry>Cumulative Percent</entry>
+          </row>
+          <row>
+            <entry>Valid</entry>
+            <entry>Students with Listening Disorders</entry>
+            <entry>702</entry>
+            <entry>42.5</entry>
+            <entry>42.5</entry>
+            <entry>42.5</entry>
+          </row>
+          <row>
+            <entry namest="c1" nameend="c2">Students with Muscular Dystrophy</entry>
+            <entry>275</entry>
+            <entry>23.3</entry>
+            <entry>23.3</entry>
+            <entry>65.7</entry>
+          </row>
+          <row>
+            <entry namest="c1" nameend="c2">Students Labeled as Other Health Impaired</entry>
+            <entry>605</entry>
+            <entry>34.3</entry>
+            <entry>34.3</entry>
+            <entry>100.0</entry>
+          </row>
+          <row>
+            <entry namest="c1" nameend="c2">Total</entry>
+            <entry>1789</entry>
+            <entry namest="c4" nameend="c5">100.0</entry>
+            <entry>100.0 </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+    
+    <table id="id8959057" summary="Output"><title>Statistics</title>
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <tbody>
+          <row>
+            <entry/>
+            <entry>Wechsler Full Scale IQ 3</entry>
+            <entry>Verbal IQ</entry>
+            <entry>Performance IQ (Wechsler Performance Intelligence 3) </entry>
+          </row>
+          <row>
+            <entry>n </entry>
+            <entry>1789</entry>
+            <entry>1789</entry>
+            <entry>1789</entry>
+          </row>
+          <row>
+            <entry>Missing </entry>
+            <entry>0</entry>
+            <entry>0</entry>
+            <entry>2</entry>
+          </row>
+          <row>
+            <entry>Mean</entry>
+            <entry>70.12</entry>
+            <entry>77.97</entry>
+            <entry>92.66</entry>
+          </row>
+          <row>
+            <entry>Std. Deviation</entry>
+            <entry>13.541</entry>
+            <entry>13.661</entry>
+            <entry>14.005</entry>
+          </row>
+          <row>
+            <entry>Skewness</entry>
+            <entry>-.279</entry>
+            <entry>.028</entry>
+            <entry>-.177</entry>
+          </row>
+          <row>
+            <entry>Std. Error of Skewness</entry>
+            <entry>.071</entry>
+            <entry>.071</entry>
+            <entry>.071</entry>
+          </row>
+          <row>
+            <entry>Kurtosis</entry>
+            <entry>.212</entry>
+            <entry>.142</entry>
+            <entry>.072</entry>
+          </row>
+          <row>
+            <entry>Std. Error of Kurtosis</entry>
+            <entry>.142</entry>
+            <entry>.142</entry>
+            <entry>.142</entry>
+          </row>
+        </tbody>
+      
+
+</tgroup>
+</table>
+    
+    <table id="id1172569836419" summary=""><title>Statistics</title><tgroup cols="5">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <colspec colnum="5" colname="c5"/>
+        <tbody>
+          <row>
+            <entry><emphasis>Gender</emphasis></entry>
+            <entry><emphasis>Wechsler Full Scale IQ 3 </emphasis></entry>
+            <entry><emphasis>Verbal IQ (Wechsler Verbal Intelligence 3)</emphasis> </entry>
+            <entry><emphasis>Performance IQ (Wechsler Performance Intelligence 3)</emphasis> </entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Boys n</entry>
+            <entry>522</entry>
+            <entry>522</entry>
+            <entry>567</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Missing</entry>
+            <entry>0</entry>
+            <entry>0</entry>
+<entry>2</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Mean</entry>
+            <entry>79.52</entry>
+            <entry>80.12</entry>
+            <entry>82.17</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Std. Deviation</entry>
+            <entry>13.512</entry>
+            <entry>13.908</entry>
+            <entry>13.653</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Skewness</entry>
+            <entry>-.253</entry>
+            <entry>.033</entry>
+            <entry>-.217</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Std. Error of Skewness</entry>
+            <entry>.101</entry>
+            <entry>.101</entry>
+            <entry>.101</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Kurtosis</entry>
+            <entry>.374</entry>
+            <entry>.291</entry>
+            <entry>.255</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Std. Error of Kurtosis</entry>
+            <entry>.201</entry>
+            <entry>.201</entry>
+            <entry>.201</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Girls n</entry>
+            <entry>734</entry>
+            <entry>734</entry>
+            <entry namest="c4" nameend="c5">732</entry>
+          </row>
+          <row>
+            <entry>Missing</entry>
+            <entry>0</entry>
+            <entry>0</entry>
+<entry>0</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Mean</entry>
+            <entry>75.88</entry>
+            <entry>75.75</entry>
+            <entry>80.07</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Std. Deviation</entry>
+            <entry>13.339</entry>
+            <entry>13.031</entry>
+            <entry>14.307</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Skewness</entry>
+            <entry>-.327</entry>
+            <entry>-.046</entry>
+            <entry>-.120</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Std. Error of Skewness</entry>
+            <entry>.101</entry>
+            <entry>.101</entry>
+            <entry>.101</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Kurtosis</entry>
+            <entry>.037 </entry>
+            <entry>-.084 </entry>
+            <entry>-.069 </entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>Std. Error of Kurtosis</entry>
+            <entry>.201 </entry>
+            <entry>.201 </entry>
+            <entry>.201 </entry>
+            <entry/>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+  </content>
+</document>

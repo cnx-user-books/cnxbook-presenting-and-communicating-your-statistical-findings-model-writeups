@@ -1,0 +1,110 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Writing Up Parametric ANOVA</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m37682</md:content-id>
+  <md:title>Writing Up Parametric ANOVA</md:title>
+  <md:abstract/>
+  <md:uuid>6049db5d-6d92-49fa-9b2a-6f8ecd0be8bd</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-129"><media id="id27091673" alt=""><image src="../../media/ncpealogo.gif" mime-type="image/gif"/></media>
+
+</para><note id="eip-418">This module is published by NCPEA Press and is presented as an NCPEA/Connexions publication. Each chapter has been peer-reviewed, accepted, and endorsed by the National Council of Professors of Educational Administration (NCPEA) as a significant contribution to the scholarship and practice of education administration. Formatted and edited in Connexions by Theodore Creighton and Brad Bizzell, Virginia Tech and Janet Tareilo, Stephen F. Austin State University.</note><section id="eip-512"><title>Writing Up Your Parametric ANOVA</title><list id="eip-262" list-type="labeled-item"><title><emphasis effect="underline">About the Authors</emphasis></title><item><emphasis>John R. Slate</emphasis> is a Professor at Sam Houston State University where he teaches Basic and Advanced Statistics courses, as well as professional writing, to doctoral students in Educational Leadership and Counseling.  His research interests lie in the use of educational databases, both state and national, to reform school practices.  To date, he has chaired and/or served over 100 doctoral student dissertation committees.  Recently, Dr. Slate created a website, <link url="www.writingandstatisticalhelp.com"> Writing and Statistical Help</link> to assist students and faculty with both statistical assistance and in editing/writing their dissertations/theses and manuscripts.</item>
+<item><emphasis>Ana Rojas-LeBouef </emphasis> is a Literacy Specialist at the Reading Center at Sam Houston State University where she teaches developmental reading courses.  She recently completed her doctoral degree in Reading, where she conducted a 16-year analysis of Texas statewide data regarding the achievement gap.  Her research interests lie in examining the inequities in achievement among ethnic groups.  Dr. Rojas-LeBouef also assists students and faculty in their writing and statistical needs on the Writing and Statistical website, <link url="www.writingandstatisticalhelp.com"> Writing and Statistical Help</link>
+</item>
+
+
+
+</list><para id="eip-115">The following is an example of how to write up (in manuscript text) your Parametric ANOVA test Statistics. This module is used with a larger Collection (Book) authored by John R. Slate and Ana Rojas-LeBouef from Sam Houston State University and available at:  <link url="http://my.qoop.com/store/NCPEA-Publications-1781472103076212/Calculating-Basic-Statistical-Procedures-in-SPSS--A-Self-Help-and-Practical-Guide-to-Preparing-These-78215421822840/ "><emphasis effect="italics">Calculating Basic Statistical Procedures in SPSS: A Self-Help and Practical Guide to Preparing Theses, Dissertations, and Manuscripts</emphasis> </link> 
+</para></section><para id="id1167803938341"><emphasis>College-Readiness in Reading: Differences by Accountability Rating</emphasis></para>
+    <section id="id1717621">
+      <title>Research Question</title>
+      <para id="id1167801482981">The following research question was addressed in this study: </para><list id="eip-389" list-type="labeled-item"><item>What is the difference in college-readiness reading rates between Texas high school campuses as a function of accountability rating?</item>
+</list>
+    </section>
+    <section id="id1167810275982">
+      <title>Results</title>
+      <para id="id1167793204481">Prior to conducting an inferential statistical procedure, checks for normality of data were conducted. With respect to the distribution of scores underlying college-readiness rates in reading, the standardized skewness coefficients (i.e., skewness divided by the standard error of skewness) and the standardized kurtosis coefficients (i.e., kurtosis divided by the standard error of kurtosis) revealed no serious departures from normality for the variable of interest. Readers are directed to the Appendix where the skewness and kurtosis values are present. By calculating the standardized coefficients, the reader can ascertain that all of the standardized coefficients were within the +/-3 range (Onwuegbuzie &amp; Daniel, 2002). Because these standardized coefficients were indicative of normally distributed data, use of a parametric Analysis of Variance (ANOVA) procedure was justified.</para>
+      <para id="id1167803873530">Regarding the extent to which differences might be present in college-readiness rates in reading as a function of school accountability rating (i.e., Exemplary, Academically Recognized, Academically Acceptable, and Academically Unacceptable), an ANOVA was calculated. This ANOVA revealed a statistically significant difference, <emphasis effect="italics">F</emphasis>(3, 1228) = 97.45, <emphasis effect="italics">p</emphasis> &lt; .001, <emphasis effect="italics">n</emphasis><sup>2</sup> = .19. The effect size for this statistically significant difference was large (Cohen, 1988). Scheffe` post hoc procedures revealed that differences were present in college-readiness rates in reading between each pair of accountability ratings. As evidenced in Table 1, college-readiness rates in reading were highest at Exemplary high schools, followed by Academically Recognized high schools. As the accountability rating became poorer, college-readiness rates in reading were statistically significantly lower. Readers are directed to Table 1 for the descriptive statistics for college-readiness rates in reading by school accountability rating.</para>
+    </section>
+    <section id="id1167788591878">
+      <title>References</title>
+      
+      <list id="eip-53" list-type="labeled-item"><item>Cohen, J. (1988). <emphasis effect="italics">Statistical power analysis for the behavioral sciences </emphasis>(2nd ed.)<emphasis effect="italics">.</emphasis> Hillsdale, NJ: Lawrence Erlbaum. </item>
+<item>Onwuegbuzie, A. J., &amp; Daniel, L. G. (2002). Uses and misuses of the correlation coefficient. <emphasis effect="italics">Research in the Schools, 9</emphasis>(1)<emphasis effect="italics">,</emphasis> 73-90. </item>
+</list>
+      
+      
+      <note id="eip-567">To be compliant with APA 6th edition, students and faculty are to be aware that Table titles are placed "above" the table entry. Titles here are placed below the tables because of special formatting templates and for conciseness of visual presentation.</note><table id="id1167803173820" summary="Descriptive Statistics for College-Readiness Rates in Reading by Accountability Rating"><title><emphasis effect="italics">Descriptive Statistics for College-Readiness Rates in Reading by Accountability Rating</emphasis></title>
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <colspec colnum="4" colname="c4"/>
+          <tbody>
+            <row>
+              <entry>Variable</entry>
+              <entry>n</entry>
+              <entry>M</entry>
+              <entry>SD</entry>
+            </row>
+            <row>
+              <entry>Exemplary</entry>
+              <entry>117</entry>
+              <entry>56.51</entry>
+              <entry>18.74</entry>
+            </row>
+            <row>
+              <entry>Academically Recognized</entry>
+              <entry>542</entry>
+              <entry>44.47</entry>
+              <entry>13.99</entry>
+            </row>
+            <row>
+              <entry>Academically Acceptable</entry>
+              <entry>501</entry>
+              <entry>36.26</entry>
+              <entry>12.34</entry>
+            </row>
+            <row>
+              <entry>Academically Unacceptable</entry>
+              <entry>72</entry>
+              <entry>29.13</entry>
+              <entry>13.03</entry>
+            </row>
+          </tbody>
+        
+</tgroup>
+</table>
+      <note id="eip-12">Figures 1, 2, 3, and 4 below came directly from SPSS output. As such, they are not compliant with APA
+6th edition and should not be used in theses, dissertations, or manuscripts. Only Table 1   
+above the Output from SPSS is compliant with APA format.</note><section id="eip-94"><title>SPSS Statistical Output</title><para id="eip-83"><title>Figure 1. Statistics</title><link url="figure9.1.png/image" window="new">
+      <media id="media1" alt="">
+
+        <image mime-type="image/png" src="../../media/figure9.1.png" id="figure1"/>
+
+      </media>
+      </link>
+</para><para id="eip-341"><title>Figure 2. Descriptive Statistics</title><link url="figure9.2.png/image" window="new">
+      <media id="media2" alt="">
+
+        <image mime-type="image/png" src="../../media/figure9.2.png" id="figure2"/>
+
+      </media>
+      </link></para><para id="eip-350"><title>Figure 3. Tests of Between Subjects Effects</title><link url="figure9.3.png/image" window="new">
+      <media id="media3" alt="">
+
+        <image mime-type="image/png" src="../../media/figure9.3.png" id="figure3"/>
+
+      </media>
+      </link></para><para id="eip-196"><title>Figure 4. Multiple Comparisons</title><link url="figure9.4.png/image" window="new">
+      <media id="media4" alt="">
+
+        <image mime-type="image/png" src="../../media/figure9.4.png" id="figure4"/>
+
+      </media>
+      </link></para></section>
+      
+    </section>
+  </content>
+</document>

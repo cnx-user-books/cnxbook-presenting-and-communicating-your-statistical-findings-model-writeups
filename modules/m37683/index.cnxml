@@ -1,0 +1,100 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Writing Up Nonparametric Dependent Samples t Test</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m37683</md:content-id>
+  <md:title>Writing Up Nonparametric Dependent Samples t Test</md:title>
+  <md:abstract/>
+  <md:uuid>c921a070-60a9-4443-a7fc-c05c166ab4d0</md:uuid>
+</metadata>
+
+<content>
+    <para id="eip-423"><media id="id27091673" alt=""><image src="../../media/ncpealogo.gif" mime-type="image/gif"/></media>
+
+</para><note id="eip-125">This module is published by NCPEA Press and is presented as an NCPEA/Connexions publication. Each chapter has been peer-reviewed, accepted, and endorsed by the National Council of Professors of Educational Administration (NCPEA) as a significant contribution to the scholarship and practice of education administration. Formatted and edited in Connexions by Theodore Creighton and Brad Bizzell, Virginia Tech and Janet Tareilo, Stephen F. Austin State University.</note><section id="eip-270"><title>Writing Up Your Nonparametric Dependent Samples t</title><list id="eip-599" list-type="labeled-item"><title><emphasis effect="underline">About the Authors</emphasis></title><item><emphasis>John R. Slate</emphasis> is a Professor at Sam Houston State University where he teaches Basic and Advanced Statistics courses, as well as professional writing, to doctoral students in Educational Leadership and Counseling.  His research interests lie in the use of educational databases, both state and national, to reform school practices.  To date, he has chaired and/or served over 100 doctoral student dissertation committees.  Recently, Dr. Slate created a website, <link url="www.writingandstatisticalhelp.com"> Writing and Statistical Help</link> to assist students and faculty with both statistical assistance and in editing/writing their dissertations/theses and manuscripts.</item>
+<item><emphasis>Ana Rojas-LeBouef </emphasis> is a Literacy Specialist at the Reading Center at Sam Houston State University where she teaches developmental reading courses.  She recently completed her doctoral degree in Reading, where she conducted a 16-year analysis of Texas statewide data regarding the achievement gap.  Her research interests lie in examining the inequities in achievement among ethnic groups.  Dr. Rojas-LeBouef also assists students and faculty in their writing and statistical needs on the Writing and Statistical website, <link url="www.writingandstatisticalhelp.com"> Writing and Statistical Help</link>
+</item>
+
+</list><para id="eip-656">The following is an example of how to write up (in manuscript text) your Nonparametric Dependent Samples <emphasis effect="italics"> t </emphasis> test statistics. This module is used with a larger Collection (Book) authored by John R. Slate and Ana Rojas-LeBouef from Sam Houston State University and available at:  <link url="http://my.qoop.com/store/NCPEA-Publications-1781472103076212/Calculating-Basic-Statistical-Procedures-in-SPSS--A-Self-Help-and-Practical-Guide-to-Preparing-These-78215421822840/ "><emphasis effect="italics">Calculating Basic Statistical Procedures in SPSS: A Self-Help and Practical Guide to Preparing Theses, Dissertations, and Manuscripts</emphasis> </link> 
+</para></section>
+    <para id="id1163969711396"><emphasis>College-Readiness Differences in Reading and Math for Asian Students in Texas</emphasis></para>
+    
+    <section id="id1163960578083">
+      <title>Research Question</title>
+      <para id="id1163985150405">The following research question was addressed in this study: </para><list id="eip-735" list-type="labeled-item"><item>What is the difference in the college-readiness rates in reading and in math for Asian high school students in Texas?</item>
+</list>
+    </section>
+    <section id="id1163972015254">
+      <title>Results</title>
+      <para id="id1163986770662"> An examination of the standardized skewness coefficients (i.e., the skewness value divided by its standard error) and the standardized kurtosis coefficients (i.e., the kurtosis value divided by its standard error) revealed large deviations from normality. All four standardized coefficients were outside the bounds of normality of +/-3 (Onwuegbuzie &amp; Daniel, 2002). Readers are referred to Table 1 for the specific values for these coefficients.</para>
+      <para id="id1163964064314"> Because the data for both the college-readiness rates in reading and in math were not normally distributed, a nonparametric statistical procedure had to be utilized. Accordingly, a nonparametric Wilcoxon’s dependent samples <emphasis effect="italics">t</emphasis>-test (Huck, 2007) was utilized to address the research question. The Wilcoxon’s dependent samples <emphasis effect="italics">t</emphasis>-test yielded a statistically significant difference between Asian students’ college-readiness rates in reading and in math, <emphasis effect="italics">z</emphasis> = -13.92, <emphasis effect="italics">p</emphasis> &lt; .001. The effect size associated with this difference, Cohen’s <emphasis effect="italics">d</emphasis>, was 0.42, small (Cohen, 1988). Asian students demonstrated statistically significantly higher college-readiness rates in math than in reading, 5.99% higher. Depicted in Table 2 are the means and standard deviations for Asian students’ college-readiness rates in reading and in math. </para>
+    </section>
+    <section id="id1163991502761">
+      <title>References</title>
+      <list id="eip-579" list-type="labeled-item"><item>Cohen, J. (1988). <emphasis effect="italics">Statistical power analysis for the behavioral sciences </emphasis>(2nd ed.)<emphasis effect="italics">. </emphasis>Hillsdale, NJ: Lawrence Erlbaum. </item>
+	<item>Huck, S. W. (2007). <emphasis effect="italics">Reading statistics and research</emphasis> (5th ed.). New York, NY: Addison Wesley</item>
+	<item>Onwuegbuzie, A. J., &amp; Daniel, L. G. (2002). Uses and misuses of the correlation coefficient. <emphasis effect="italics">Research in the Schools, 9</emphasis>(1)<emphasis effect="italics">,</emphasis> 73-90. </item></list><note id="eip-709">To be compliant with APA 6th edition, students and faculty are to be aware that Table titles are placed "above" the table entry. Titles here are placed below the tables because of special formatting templates and for conciseness of visual presentation.</note><table id="eip-304" summary="Standardized Skewness Coefficients and Standardized Kurtosis Coefficients for College-Readiness Rates in Reading and in Math for Texas Asian High School Students"><title><emphasis effect="italics">Standardized Skewness Coefficients and Standardized Kurtosis Coefficients for College-Readiness Rates in Reading and in Math for Texas Asian High School Students</emphasis></title>
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Variable</entry>
+              <entry>Standardized Skewness Coefficient</entry>
+              <entry>Standardized Kurtosis Coefficient</entry>
+            </row>
+            <row>
+              <entry>Reading Readiness Rates</entry>
+              <entry>-4.91</entry>
+              <entry>4.22</entry>
+            </row>
+            <row>
+              <entry>Math Readiness Rates</entry>
+              <entry>-6.37</entry>
+              <entry>3.36</entry>
+            </row>
+          </tbody>
+        
+
+</tgroup>
+</table><table id="eip-866" summary="Means and Standard Deviations for Texas Asian High School Students’ College-Readiness Rates in Reading and in Math"><title><emphasis effect="italics">Means and Standard Deviations for Texas Asian High School Students’ College-Readiness Rates in Reading and in Math</emphasis></title>
+<tgroup cols="3"><colspec colnum="1" colname="c1"/>
+          <colspec colnum="2" colname="c2"/>
+          <colspec colnum="3" colname="c3"/>
+          <tbody>
+            <row>
+              <entry>Variable</entry>
+              <entry>M</entry>
+              <entry>SD</entry>
+            </row>
+            <row>
+              <entry>Reading Readiness Rates</entry>
+              <entry>68.60</entry>
+              <entry>15.44</entry>
+            </row>
+            <row>
+              <entry>Math Readiness Rates</entry>
+              <entry>74.59</entry>
+              <entry>13.32</entry>
+            </row>
+          </tbody>
+
+</tgroup>
+</table>
+    </section><note id="eip-464">Figures 1 and 2 below came directly from SPSS output. As such, they are not compliant with APA
+6th edition and should not be used in theses, dissertations, or manuscripts. Only Table 1 and 2  
+above the Output from SPSS are compliant with APA format.</note><para id="eip-687"><title>Figure 1. Statistics</title><link url="figure8.1.png/image" window="new">
+      <media id="media1" alt="">
+
+        <image mime-type="image/png" src="../../media/figure8.1.png" id="figure1"/>
+
+      </media>
+      </link></para><para id="eip-397"><title>Figure 2. Test Statistics</title><link url="figure8.2.png/image" window="new">
+      <media id="media2" alt="">
+
+        <image mime-type="image/png" src="../../media/figure8.2.png" id="figure2"/>
+
+      </media>
+      </link></para>
+    
+  </content>
+</document>
